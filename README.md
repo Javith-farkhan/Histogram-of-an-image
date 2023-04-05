@@ -84,8 +84,8 @@ equ_img = cv2.equalizeHist(gray_image)
 # Output:
 ## Input Grayscale Image and Color Image
 
-![](Gray_image.png)
-![](Color_image.png)
+![](gray_image.png)
+![](color_image.png)
 
 
 ## Histogram of Grayscale Image and any channel of Color Image
