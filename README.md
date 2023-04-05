@@ -84,22 +84,21 @@ equ_img = cv2.equalizeHist(gray_image)
 # Output:
 ## Input Grayscale Image and Color Image
 
-![](C640.png)<br>
-![](G640.png)<br>
+![](car.png)
 
 
 ## Histogram of Grayscale Image and any channel of Color Image
 #### Grey Image
-![](G_Hgraph.png) <br>
+![](Grayscale_value.png) <br>
 #### Blue Channel
-![](BHgraph.png) <br>
+![](Blue_value.png) <br>
 #### Green Channel
-![](GHgraph.png) <br>
+![](Green_value.png) <br>
 #### Red Channel
-![](RHgraph.png) <br>
+![](Red_value.png) <br>
 
 ## Histogram Equalization of Grayscale Image
-![](Grey_Eq_img.png) <br>
+![](Equ_Hist.png) <br>
 
 
 # Result: 
